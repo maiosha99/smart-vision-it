@@ -39,7 +39,7 @@ export default function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} Designed by mai mahran.</p>
+        <p>&copy; {new Date().getFullYear()} smart vision. All Rights Reserved.</p>
       </div>
     </footer>
   );
